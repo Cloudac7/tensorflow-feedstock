@@ -37,7 +37,7 @@ macos_machine:
 numpy:
 - '1.19'
 openssl:
-- 1.1.1
+- '1.1.1l'
 pin_run_as_build:
   jpeg:
     max_pin: x
