@@ -2,6 +2,9 @@ build_platform:
   osx_arm64: osx_64
 conda_forge_output_validation: true
 provider:
-  win: azure
   osx: circle
   linux: circle
+channels:
+  # sources selects the channels to pull packages from, in order.
+  sources:
+    - cloudac7
