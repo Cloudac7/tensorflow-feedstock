@@ -7,9 +7,9 @@ c_compiler_version:
 cdt_name:
 - cos6
 channel_sources:
-- conda-forge
+- deepmodeling,https://deepmodeling.njzjz.win,defaults
 channel_targets:
-- conda-forge main
+- cloudac7 main
 cuda_compiler:
 - nvcc
 cuda_compiler_version:

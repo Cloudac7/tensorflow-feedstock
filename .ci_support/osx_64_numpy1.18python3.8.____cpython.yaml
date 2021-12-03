@@ -9,9 +9,9 @@ c_compiler:
 c_compiler_version:
 - '11'
 channel_sources:
-- conda-forge
+- deepmodeling,https://deepmodeling.njzjz.win,defaults
 channel_targets:
-- conda-forge main
+- cloudac7 main
 cuda_compiler_version:
 - None
 cxx_compiler:
