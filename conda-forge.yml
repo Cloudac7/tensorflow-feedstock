@@ -10,3 +10,4 @@ channels:
   # channel to push to and the second element is the label on that channel
   targets:
     - ["cloudac7", "main"]
+
